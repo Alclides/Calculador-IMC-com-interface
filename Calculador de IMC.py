@@ -51,3 +51,4 @@ botao_calc.pack()
 
 #mantendo janela aberta até que o usúario feche a aba
 janela.mainloop()
+exit()
